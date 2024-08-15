@@ -1,0 +1,9 @@
+1. Crash By Time: The third quarter has the highest number of crashes. Besides that crashes that cause human harm are 3.5 times greater than causing property damage during the period.
+
+2. Crash Severity Analysis: Crashes occur with high frequency in the afternoon and morning. 2 severity types including "Minor injury" and "Fatal" occur less frequently than the other 3 types throughout the days of the week and times of the day.
+
+3. Vehicle and Participant Analysis: Crashes happen by car occupying most of the accidents (about 75-85%) compared with another vehicle or road user involvement. Casualties that involve truck and motorcycle moped are higher than the bus. The crash that has the highest number of vehicles that relates to the crash is 128463 which has 15 vehicles in total.
+
+4. Road Casualties Analysis: 17-24, 25-29, and 30-39 are the groups having the highest number of casualties and the number of casualties gradually decreases as the age group increases. Casualty happens in east cities more than others.
+
+5. Restraint and Helmet Use Analysis: The casualties involved to vehicle occupants that worn helmet, restrained, and restrain not determined has the highest amount and they fluctuate over the period. The vehicle occupants unrestrained decreased over the period
